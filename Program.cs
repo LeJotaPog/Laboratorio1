@@ -24,6 +24,9 @@ namespace Laboratorio1
             Console.WriteLine(num1 + num2 + num3 + num4);
             Console.WriteLine("El promedio de todos es");
             Console.WriteLine((num1 + num2 + num3 + num4) / 4);
+
+            Console.WriteLine("Ingrese el primer número: ");
+
         }
     }
 }
